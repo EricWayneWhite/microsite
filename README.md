@@ -10,6 +10,7 @@ cd microsite
 docker build -t microsite .
 ```
 
+Run a container
 ```
 docker run -d \
     -h *host_name* \
